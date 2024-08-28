@@ -20,7 +20,6 @@
 - A passionate self-taught full-stack developer
 - Currently learning Web Development by Self
 - Personal website [link](https://github.com/pitrouflette)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
