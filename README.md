@@ -18,8 +18,8 @@
 <br>
 
 - A passionate self-taught full-stack developer
-- Currently learning Web Development by Self
-- Personal website [link](https://github.com/pitrouflette)
+- Currently learning Web Development
+- Currently working on [NewTwitter](https://github.com/TathanDev/NewTwitter)
 
 <br><br>
 
